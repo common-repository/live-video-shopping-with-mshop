@@ -1,0 +1,111 @@
+button#speak_to_us {
+    background: #2271b1;
+    border: 0;
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 14px;
+    padding: 0 20px;
+    height: 31px;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+div#registration .container {
+    float: left;
+    color: black;
+    background-color: #f0f0f1;
+    margin: 0;
+    padding: 15px;
+    width: 400px;
+    max-width: 100%;
+    border-radius: 3px;
+}
+div#registration  h2 {
+    font-size: 20px;
+    margin: 0 0 15px 0;
+}
+input#register_submit {
+    background: #2271b1;
+    color: #fff;
+    font-size: 15px;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+th.titledesc label {
+    font-size: 16px;
+    font-weight: 600;
+}
+td.mshop-left.forminp.forminp-custom_type {
+    width: 450px;
+    vertical-align: top;
+}
+td.mshop-right h4 {
+    margin-top: 0;
+    font-size: 16px;
+}
+div#mintro {
+    background: lightgoldenrodyellow;
+    padding: 15px;
+}
+div#m_shop_url_section {
+    background: #f0f0f1;
+    padding: 15px;
+    border-radius: 3px;
+}
+div#m_shop_url_section label {
+    width: 100%;
+    display: inline-block;
+    font-size: 14px;
+    margin-bottom: 6px;
+}
+div#m_shop_url_section input {
+    height: 35px;
+    border: 1px solid #c3c4c7;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+div#m_shop_url_section input#url_verify {
+    background: #2271b1;
+    border: 0;
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 14px;
+    padding: 0 20px;
+    height: 35px;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+}
+tr.mshop_register {
+    background: #fff !important;
+    padding: 15px !important;
+}
+tr.mshop_register th {
+    padding: 15px 15px 15px 15px !IMPORTANT;
+}
+div#registration label {
+    width: 100%;
+    display: inline-block;
+    font-size: 14px;
+    margin-bottom: 6px;
+}
+div#registration input {
+    height: 35px;
+    border: 1px solid #eee;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+a#regbtn {
+    font-weight: 600;
+    cursor: pointer;
+}
+div#mintro ol {
+    margin-left: 15px;
+}
+.form-table td {
+    padding: 15px 15px;
+}
+.error {
+  color: red;
+}
